@@ -1,0 +1,26 @@
+body {
+  background: url("../images/PoolBackground.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Shadows Into Light', cursive;
+}
+.pool-app {
+  color: white;
+}
+.pool-app .nav-buttons {
+  margin-top: 30px;
+  width: 100%;
+}
+.pool-app .nav-item {
+  width: 100%;
+  font-size: 30px;
+  padding: 0;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.pool-app h2 {
+  text-align: center;
+  font-size: 50px;
+}
